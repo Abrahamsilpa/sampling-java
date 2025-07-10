@@ -1,0 +1,11 @@
+claim_hcc_id,claim_type,status,claim_source,claims_examiner,payment_status
+CHCC100001,Institutional(OP),Rejected,EDI,Examiner A,Check Issued
+CHCC100002,Institutional(IP),Denied,Paper,Examiner B,Check Issued
+CHCC100003,Professional,Final,EDI,Examiner C,Check Not Issued
+CHCC100004,Professional,Rejected,Paper,Examiner D,Check Issued
+CHCC100005,Institutional(OP),Final,EDI,Examiner E,Check Issued
+CHCC100006,Professional,Denied,Paper,Examiner F,Check Not Issued
+CHCC100007,Institutional(IP),Rejected,EDI,Examiner G,Check Issued
+CHCC100008,Professional,Final,Paper,Examiner H,Check Issued
+CHCC100009,Institutional(OP),Denied,EDI,Examiner I,Check Issued
+CHCC100010,Professional,Rejected,Paper,Examiner J,Check Not Issued
